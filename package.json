@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.8"
+  },
+  "dependencies": {
+    "picocolors": "1.0.0"
   }
 }
